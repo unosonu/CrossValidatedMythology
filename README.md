@@ -5,3 +5,17 @@ Bring together all the world mythologies and match the dates and places and fact
 
 
 ## List of sources
+https://github.com/IllusionInk/Mahabharata
+https://github.com/kunjee17/mahabharata
+https://github.com/zerovar/mahabharata-analysis
+https://github.com/deedy/HiddenMarkovModelRandomWalk/blob/master/corpora/mahabharat.txt
+https://github.com/rohit01/mahabharat
+https://github.com/cltk/sanskrit_parallel_sacred_texts
+https://github.com/coderbhupendra/sanskrit_parallel_mahabharata_text
+https://sacred-texts.com/hin/index.htm
+https://sanskrit.github.io/projects/audio/mbh-audio/
+https://github.com/sarit/SARIT-corpus
+https://github.com/rohanahata/mahabharata
+https://en.wikipedia.org/wiki/Mahabharata
+
+
