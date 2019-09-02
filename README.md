@@ -17,5 +17,10 @@ https://sanskrit.github.io/projects/audio/mbh-audio/
 https://github.com/sarit/SARIT-corpus
 https://github.com/rohanahata/mahabharata
 https://en.wikipedia.org/wiki/Mahabharata
+https://kunjan.in/2016/12/epic-adventure-using-fsharp/
+https://www.linkedin.com/pulse/text-mining-mahabharata-subhajit-mukherjee/
+https://desmanipal.org/mahabharata-project/
+https://github.com/Subhajit2809/Text-Mining-on-Mahabharata
+
 
 
